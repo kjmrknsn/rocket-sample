@@ -1,0 +1,8 @@
+[package]
+name = "rocket-sample"
+version = "0.1.0"
+authors = ["Keiji Yoshida <kjmrknsn@gmail.com>"]
+
+[dependencies]
+rocket = "0.3"
+rocket_codegen = "0.3"
